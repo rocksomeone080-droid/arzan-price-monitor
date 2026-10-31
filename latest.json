@@ -1,0 +1,23 @@
+{
+  "updated": "2026-10-31T11:15:00",
+  "products": [
+    {
+      "id": "rakhat",
+      "name": "Rakhat Kazakhstan 100 г (MagnumGO, Астана)",
+      "price": 1029,
+      "url": "https://arzan.kz/ru/astana/p/shokolad-rakhat-kazakhstanskiy-100g-b28b1412-8f37-4fb1-9cb1-821bae4a19bf"
+    },
+    {
+      "id": "bayan",
+      "name": "Bayan Sulu Kazakhstan Premium 100 г (MagnumGO, Астана)",
+      "price": 559,
+      "url": "https://arzan.kz/ru/astana/p/shokolad-bayan-sulu-kazakhstanskiy-premium-100g-1dbb06b0-edcb-4326-bccf-2bdd9ec989f8"
+    },
+    {
+      "id": "yashkino",
+      "name": "Яшкино молочный 90 г (MagnumGO, Астана)",
+      "price": 649,
+      "url": "https://arzan.kz/ru/astana/p/shokolad-yashkino-molochnyy-90g-761e6a98-ad1c-411c-8ef5-53d3883ff3e1"
+    }
+  ]
+}
